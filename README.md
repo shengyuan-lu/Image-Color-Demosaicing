@@ -1,2 +1,2 @@
 # Images-and-Color-Demosaicing
- Images-and-Color-Demosaicing (Jupter Notebook)
+ Images-and-Color-Demosaicing (Jupyter Notebook)
